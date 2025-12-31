@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Barcelona (C),38,30,4,4,110,21,+89,94,Qualification for the Champions League group stage,2014-15
+1,Barcelona,38,30,4,4,110,21,+89,94,Qualification for the Champions League group stage,2014-15
 2,Real Madrid,38,30,2,6,118,38,+80,92,Qualification for the Champions League group stage,2014-15
 3,Atlético Madrid,38,23,9,6,67,29,+38,78,Qualification for the Champions League group stage,2014-15
 4,Valencia,38,22,11,5,70,32,+38,77,Qualification for the Champions League play-off round,2014-15
@@ -11,15 +11,15 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 10,Espanyol,38,13,10,15,47,51,−4,49[c],,2014-15
 11,Rayo Vallecano,38,15,4,19,46,68,−22,49[c],,2014-15
 12,Real Sociedad,38,11,13,14,44,51,−7,46,,2014-15
-13,Elche[d] (R),38,11,8,19,35,62,−27,41,Relegation to Segunda División,2014-15
+13,Elche,38,11,8,19,35,62,−27,41,Relegation to Segunda División,2014-15
 14,Levante,38,9,10,19,34,67,−33,37[e],,2014-15
 15,Getafe,38,10,7,21,33,64,−31,37[e],,2014-15
 16,Deportivo La Coruña,38,7,14,17,35,60,−25,35[f],,2014-15
 17,Granada,38,7,14,17,29,64,−35,35[f],,2014-15
 18,Eibar,38,9,8,21,34,55,−21,35[f],,2014-15
-19,Almería[g] (R),38,8,8,22,35,64,−29,29,Relegation to Segunda División,2014-15
-20,Córdoba (R),38,3,11,24,22,68,−46,20,Relegation to Segunda División,2014-15
-1,Barcelona (C),38,29,4,5,112,29,+83,91,Qualification for the Champions League group stage,2015-16
+19,Almería,38,8,8,22,35,64,−29,29,Relegation to Segunda División,2014-15
+20,Córdoba,38,3,11,24,22,68,−46,20,Relegation to Segunda División,2014-15
+1,Barcelona,38,29,4,5,112,29,+83,91,Qualification for the Champions League group stage,2015-16
 2,Real Madrid,38,28,6,4,110,34,+76,90,Qualification for the Champions League group stage,2015-16
 3,Atlético Madrid,38,28,4,6,63,18,+45,88,Qualification for the Champions League group stage,2015-16
 4,Villarreal,38,18,10,10,44,35,+9,64,Qualification for the Champions League play-off round,2015-16
@@ -36,10 +36,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Deportivo La Coruña,38,8,18,12,45,61,−16,42,,2015-16
 16,Granada,38,10,9,19,46,69,−23,39[f],,2015-16
 17,Sporting Gijón,38,10,9,19,40,62,−22,39[f],,2015-16
-18,Rayo Vallecano (R),38,9,11,18,52,73,−21,38,Relegation to Segunda División,2015-16
-19,Getafe (R),38,9,9,20,37,67,−30,36,Relegation to Segunda División,2015-16
-20,Levante (R),38,8,8,22,37,70,−33,32,Relegation to Segunda División,2015-16
-1,Real Madrid (C),38,29,6,3,106,41,+65,93,Qualification for the Champions League group stage,2016-17
+18,Rayo Vallecano,38,9,11,18,52,73,−21,38,Relegation to Segunda División,2015-16
+19,Getafe,38,9,9,20,37,67,−30,36,Relegation to Segunda División,2015-16
+20,Levante,38,8,8,22,37,70,−33,32,Relegation to Segunda División,2015-16
+1,Real Madrid,38,29,6,3,106,41,+65,93,Qualification for the Champions League group stage,2016-17
 2,Barcelona,38,28,6,4,116,37,+79,90,Qualification for the Champions League group stage,2016-17
 3,Atlético Madrid,38,23,9,6,70,27,+43,78,Qualification for the Champions League group stage,2016-17
 4,Sevilla,38,21,9,8,69,49,+20,72,Qualification for the Champions League play-off round,2016-17
@@ -56,10 +56,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Real Betis,38,10,9,19,41,64,−23,39[c],,2016-17
 16,Deportivo La Coruña,38,8,12,18,43,61,−18,36,,2016-17
 17,Leganés,38,8,11,19,36,55,−19,35,,2016-17
-18,Sporting Gijón (R),38,7,10,21,42,72,−30,31,Relegation to Segunda División,2016-17
-19,Osasuna (R),38,4,10,24,40,94,−54,22,Relegation to Segunda División,2016-17
-20,Granada (R),38,4,8,26,30,82,−52,20,Relegation to Segunda División,2016-17
-1,Barcelona (C),38,28,9,1,99,29,+70,93,Qualification for the Champions League group stage,2017-18
+18,Sporting Gijón,38,7,10,21,42,72,−30,31,Relegation to Segunda División,2016-17
+19,Osasuna,38,4,10,24,40,94,−54,22,Relegation to Segunda División,2016-17
+20,Granada,38,4,8,26,30,82,−52,20,Relegation to Segunda División,2016-17
+1,Barcelona,38,28,9,1,99,29,+70,93,Qualification for the Champions League group stage,2017-18
 2,Atlético Madrid,38,23,10,5,58,22,+36,79,Qualification for the Champions League group stage,2017-18
 3,Real Madrid,38,22,10,6,94,44,+50,76,Qualification for the Champions League group stage,2017-18
 4,Valencia,38,22,7,9,65,38,+27,73,Qualification for the Champions League group stage,2017-18
@@ -76,10 +76,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Levante,38,11,13,14,44,58,−14,46,,2017-18
 16,Athletic Bilbao,38,10,13,15,41,49,−8,43[d],,2017-18
 17,Leganés,38,12,7,19,34,51,−17,43[d],,2017-18
-18,Deportivo La Coruña (R),38,6,11,21,38,76,−38,29,Relegation to Segunda División,2017-18
-19,Las Palmas (R),38,5,7,26,24,74,−50,22,Relegation to Segunda División,2017-18
-20,Málaga (R),38,5,5,28,24,61,−37,20,Relegation to Segunda División,2017-18
-1,Barcelona (C),38,26,9,3,90,36,+54,87,Qualification for the Champions League group stage,2018-19
+18,Deportivo La Coruña,38,6,11,21,38,76,−38,29,Relegation to Segunda División,2017-18
+19,Las Palmas,38,5,7,26,24,74,−50,22,Relegation to Segunda División,2017-18
+20,Málaga,38,5,5,28,24,61,−37,20,Relegation to Segunda División,2017-18
+1,Barcelona,38,26,9,3,90,36,+54,87,Qualification for the Champions League group stage,2018-19
 2,Atlético Madrid,38,22,10,6,55,29,+26,76,Qualification for the Champions League group stage,2018-19
 3,Real Madrid,38,21,5,12,63,46,+17,68,Qualification for the Champions League group stage,2018-19
 4,Valencia,38,15,16,7,51,35,+16,61,Qualification for the Champions League group stage,2018-19
@@ -96,10 +96,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Levante,38,11,11,16,59,66,−7,44[e],,2018-19
 16,Valladolid,38,10,11,17,32,51,−19,41[f],,2018-19
 17,Celta Vigo,38,10,11,17,53,62,−9,41[f],,2018-19
-18,Girona (R),38,9,10,19,37,53,−16,37,Relegation to Segunda División,2018-19
-19,Huesca (R),38,7,12,19,43,65,−22,33,Relegation to Segunda División,2018-19
-20,Rayo Vallecano (R),38,8,8,22,41,70,−29,32,Relegation to Segunda División,2018-19
-1,Real Madrid (C),38,26,9,3,70,25,+45,87,Qualification for the Champions League group stage,2019-20
+18,Girona,38,9,10,19,37,53,−16,37,Relegation to Segunda División,2018-19
+19,Huesca,38,7,12,19,43,65,−22,33,Relegation to Segunda División,2018-19
+20,Rayo Vallecano,38,8,8,22,41,70,−29,32,Relegation to Segunda División,2018-19
+1,Real Madrid,38,26,9,3,70,25,+45,87,Qualification for the Champions League group stage,2019-20
 2,Barcelona,38,25,7,6,86,38,+48,82,Qualification for the Champions League group stage,2019-20
 3,Atlético Madrid,38,18,16,4,51,27,+24,70,Qualification for the Champions League group stage,2019-20
 4,Sevilla,38,19,13,6,54,34,+20,70,Qualification for the Champions League group stage,2019-20
@@ -116,10 +116,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Real Betis,38,10,11,17,48,60,−12,41,,2019-20
 16,Alavés,38,10,9,19,34,59,−25,39,,2019-20
 17,Celta Vigo,38,7,16,15,37,49,−12,37,,2019-20
-18,Leganés (R),38,8,12,18,30,51,−21,36,Relegation to Segunda División,2019-20
-19,Mallorca (R),38,9,6,23,40,65,−25,33,Relegation to Segunda División,2019-20
-20,Espanyol (R),38,5,10,23,27,58,−31,25,Relegation to Segunda División,2019-20
-1,Atlético Madrid (C),38,26,8,4,67,25,+42,86,Qualification for the Champions League group stage,2020-21
+18,Leganés,38,8,12,18,30,51,−21,36,Relegation to Segunda División,2019-20
+19,Mallorca,38,9,6,23,40,65,−25,33,Relegation to Segunda División,2019-20
+20,Espanyol,38,5,10,23,27,58,−31,25,Relegation to Segunda División,2019-20
+1,Atlético Madrid,38,26,8,4,67,25,+42,86,Qualification for the Champions League group stage,2020-21
 2,Real Madrid,38,25,9,4,67,28,+39,84,Qualification for the Champions League group stage,2020-21
 3,Barcelona,38,24,7,7,85,38,+47,79,Qualification for the Champions League group stage,2020-21
 4,Sevilla,38,24,5,9,53,33,+20,77,Qualification for the Champions League group stage,2020-21
@@ -136,10 +136,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Getafe,38,9,11,18,28,43,−15,38,,2020-21
 16,Alavés,38,9,11,18,36,57,−21,38,,2020-21
 17,Elche,38,8,12,18,34,55,−21,36,,2020-21
-18,Huesca (R),38,7,13,18,34,53,−19,34,Relegation to Segunda División,2020-21
-19,Valladolid (R),38,5,16,17,34,57,−23,31,Relegation to Segunda División,2020-21
-20,Eibar (R),38,6,12,20,29,52,−23,30,Relegation to Segunda División,2020-21
-1,Real Madrid (C),38,26,8,4,80,31,+49,86,Qualification for the Champions League group stage,2021-22
+18,Huesca,38,7,13,18,34,53,−19,34,Relegation to Segunda División,2020-21
+19,Valladolid,38,5,16,17,34,57,−23,31,Relegation to Segunda División,2020-21
+20,Eibar,38,6,12,20,29,52,−23,30,Relegation to Segunda División,2020-21
+1,Real Madrid,38,26,8,4,80,31,+49,86,Qualification for the Champions League group stage,2021-22
 2,Barcelona,38,21,10,7,68,38,+30,73,Qualification for the Champions League group stage,2021-22
 3,Atlético Madrid,38,21,8,9,65,43,+22,71,Qualification for the Champions League group stage,2021-22
 4,Sevilla,38,18,16,4,53,30,+23,70,Qualification for the Champions League group stage,2021-22
@@ -156,10 +156,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Getafe,38,8,15,15,33,41,−8,39[c],,2021-22
 16,Mallorca,38,10,9,19,36,63,−27,39[c],,2021-22
 17,Cádiz,38,8,15,15,35,51,−16,39[c],,2021-22
-18,Granada (R),38,8,14,16,44,61,−17,38,Relegation to Segunda División,2021-22
-19,Levante (R),38,8,11,19,51,76,−25,35,Relegation to Segunda División,2021-22
-20,Alavés (R),38,8,7,23,31,65,−34,31,Relegation to Segunda División,2021-22
-1,Barcelona (C),38,28,4,6,70,20,+50,88,Qualification for the Champions League group stage,2022-23
+18,Granada,38,8,14,16,44,61,−17,38,Relegation to Segunda División,2021-22
+19,Levante,38,8,11,19,51,76,−25,35,Relegation to Segunda División,2021-22
+20,Alavés,38,8,7,23,31,65,−34,31,Relegation to Segunda División,2021-22
+1,Barcelona,38,28,4,6,70,20,+50,88,Qualification for the Champions League group stage,2022-23
 2,Real Madrid,38,24,6,8,75,36,+39,78,Qualification for the Champions League group stage,2022-23
 3,Atlético Madrid,38,23,8,7,70,33,+37,77,Qualification for the Champions League group stage,2022-23
 4,Real Sociedad,38,21,8,9,51,35,+16,71,Qualification for the Champions League group stage,2022-23
@@ -176,10 +176,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Getafe,38,10,12,16,34,45,−11,42[d],,2022-23
 16,Valencia,38,11,9,18,42,45,−3,42[d],,2022-23
 17,Almería,38,11,8,19,49,65,−16,41,,2022-23
-18,Valladolid (R),38,11,7,20,33,63,−30,40,Relegation to Segunda División,2022-23
-19,Espanyol (R),38,8,13,17,52,69,−17,37,Relegation to Segunda División,2022-23
-20,Elche (R),38,5,10,23,30,67,−37,25,Relegation to Segunda División,2022-23
-1,Real Madrid (C),38,29,8,1,87,26,+61,95,Qualification for the Champions League league phase,2023-24
+18,Valladolid,38,11,7,20,33,63,−30,40,Relegation to Segunda División,2022-23
+19,Espanyol,38,8,13,17,52,69,−17,37,Relegation to Segunda División,2022-23
+20,Elche,38,5,10,23,30,67,−37,25,Relegation to Segunda División,2022-23
+1,Real Madrid,38,29,8,1,87,26,+61,95,Qualification for the Champions League league phase,2023-24
 2,Barcelona,38,26,7,5,79,44,+35,85,Qualification for the Champions League league phase,2023-24
 3,Girona,38,25,6,7,85,46,+39,81,Qualification for the Champions League league phase,2023-24
 4,Atlético Madrid,38,24,4,10,70,43,+27,76,Qualification for the Champions League league phase,2023-24
@@ -196,10 +196,10 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Mallorca,38,8,16,14,33,44,−11,40[c],,2023-24
 16,Las Palmas,38,10,10,18,33,47,−14,40[c],,2023-24
 17,Rayo Vallecano,38,8,14,16,29,48,−19,38,,2023-24
-18,Cádiz (R),38,6,15,17,26,55,−29,33,Relegation to Segunda División,2023-24
-19,Almería (R),38,3,12,23,43,75,−32,21[d],Relegation to Segunda División,2023-24
-20,Granada (R),38,4,9,25,38,79,−41,21[d],Relegation to Segunda División,2023-24
-1,Barcelona (C),38,28,4,6,102,39,+63,88,Qualification for the Champions League league stage[a],2024-25
+18,Cádiz,38,6,15,17,26,55,−29,33,Relegation to Segunda División,2023-24
+19,Almería,38,3,12,23,43,75,−32,21[d],Relegation to Segunda División,2023-24
+20,Granada,38,4,9,25,38,79,−41,21[d],Relegation to Segunda División,2023-24
+1,Barcelona,38,28,4,6,102,39,+63,88,Qualification for the Champions League league stage[a],2024-25
 2,Real Madrid,38,26,6,6,78,38,+40,84,Qualification for the Champions League league stage[a],2024-25
 3,Atlético Madrid,38,22,10,6,68,30,+38,76,Qualification for the Champions League league stage[a],2024-25
 4,Athletic Bilbao,38,19,13,6,54,29,+25,70[b],Qualification for the Champions League league stage[a],2024-25
@@ -216,9 +216,9 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Alavés,38,10,12,16,38,48,−10,42[f],,2024-25
 16,Girona,38,11,8,19,44,60,−16,41[g],,2024-25
 17,Sevilla,38,10,11,17,42,55,−13,41[g],,2024-25
-18,Leganés (R),38,9,13,16,39,56,−17,40,Relegation to Segunda División,2024-25
-19,Las Palmas (R),38,8,8,22,40,61,−21,32,Relegation to Segunda División,2024-25
-20,Valladolid (R),38,4,4,30,26,90,−64,16,Relegation to Segunda División,2024-25
+18,Leganés,38,9,13,16,39,56,−17,40,Relegation to Segunda División,2024-25
+19,Las Palmas,38,8,8,22,40,61,−21,32,Relegation to Segunda División,2024-25
+20,Valladolid,38,4,4,30,26,90,−64,16,Relegation to Segunda División,2024-25
 1,Barcelona,18,15,1,2,51,20,+31,46,Qualification for the Champions League league phase,2025-26
 2,Real Madrid,18,13,3,2,36,16,+20,42,Qualification for the Champions League league phase,2025-26
 3,Atlético Madrid,18,11,4,3,33,16,+17,37,Qualification for the Champions League league phase,2025-26
